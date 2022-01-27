@@ -18,7 +18,7 @@ Special comment in C/C++ code
 
 or
 
-```
+```C
 #include "(FILENAME)" /* --download-from--:(URL) */
 ```
 
